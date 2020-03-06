@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Lodhi_Medical_Store'
